@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799166354916",
+    "project_id": "scrapcollector-1f1c5",
+    "storage_bucket": "scrapcollector-1f1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799166354916:android:a757a81406060911d3a3f1",
+        "android_client_info": {
+          "package_name": "trices.app.myscrapcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799166354916-rgpaghtlsd106rgu986kd0c5l4sq5ali.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trices.app.myscrapcollector",
+            "certificate_hash": "c38652894748440575936a075356223902fea593"
+          }
+        },
+        {
+          "client_id": "799166354916-aedpojt61e80nns8ch1snktelnh1b166.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmu0CbhWAwvpra4wVoynwEVfwjDZDWRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799166354916-aedpojt61e80nns8ch1snktelnh1b166.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
